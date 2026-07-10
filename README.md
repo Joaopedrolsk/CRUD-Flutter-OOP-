@@ -179,10 +179,14 @@ Nome mais longo: Maria de Oliveira Silva
 
 Este projeto é de código aberto e está disponível sob a licença MIT.
 
+##Declaração de uso de IA
+
+Em algumas partes desse projeto foi solitado ajuda de Inteligência Artificial para refatoração de código e de ajuda em alguns comandos que não tinha completo entendimento depois de seguir a lógica, portanto toda a lógica do código foi pensada antes e boa parte dos métodos e recursos de orientações a objeto foi feita manualmente.
+
 ## 👨‍💻 Autor
 
 **João Pedro** - [GitHub](https://github.com/Joaopedrolsk)
 
 ---
 
-**Desenvolvido com ❤️ em Dart**
+**Desenvolvido por João Pedro Altini Schmitz em Dart**
